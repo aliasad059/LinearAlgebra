@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8900a2-044b-49de-92b9-3fc9546a5af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MP1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MP1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="MP1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -63,6 +69,8 @@
       <updated>1603352821832</updated>
       <workItem from="1603352824294" duration="114000" />
       <workItem from="1603353757851" duration="70000" />
+      <workItem from="1603358638461" duration="1056000" />
+      <workItem from="1607001630889" duration="1787000" />
     </task>
     <servers />
   </component>
@@ -70,24 +78,24 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1866" height="316" key="GridCell.Tab.0.bottom" timestamp="1603352937268">
+    <state width="1866" height="316" key="GridCell.Tab.0.bottom" timestamp="1607004295183">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="316" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1603352937268" />
-    <state width="1866" height="316" key="GridCell.Tab.0.center" timestamp="1603352937268">
+    <state width="1866" height="316" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1607004295183" />
+    <state width="1866" height="316" key="GridCell.Tab.0.center" timestamp="1607004295183">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="316" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1603352937268" />
-    <state width="1866" height="316" key="GridCell.Tab.0.left" timestamp="1603352937268">
+    <state width="1866" height="316" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1607004295183" />
+    <state width="1866" height="316" key="GridCell.Tab.0.left" timestamp="1607004295183">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="316" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1603352937268" />
-    <state width="1866" height="316" key="GridCell.Tab.0.right" timestamp="1603352937268">
+    <state width="1866" height="316" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1607004295183" />
+    <state width="1866" height="316" key="GridCell.Tab.0.right" timestamp="1607004295183">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1866" height="316" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1603352937268" />
+    <state width="1866" height="316" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1607004295183" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MiniProject1$MP1.coverage" NAME="MP1 Coverage Results" MODIFIED="1603352837752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MiniProject1$MP1.coverage" NAME="MP1 Coverage Results" MODIFIED="1607002430660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
